@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => {
   return (
     <div className=" w-full mx-auto shadow-lg rounded-lg">
-    <div className="px-5 py-5 flex justify-between items-center bg-white border-b-2">
+    <div className="bg-blue-400 px-5 py-5 flex justify-between items-center border-b-2">
       <div className="font-serif font-medium text-2xl tracking-normal hover:underline hover:uppercase">Chat App</div>
       <div className="w-1/2">
         <input
