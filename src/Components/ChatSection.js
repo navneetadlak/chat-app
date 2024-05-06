@@ -105,7 +105,7 @@ const ChatSection = () => {
                 </div>
 
                 {/* message text span */}
-                <span className="mr-2 py-3 px-4 mb-8 bg-blue-500  rounded-tl-xl rounded-tr-xl rounded-br-xl text-white">
+                <span className="mr-2 py-3 px-4 mb-8 bg-blue-400  rounded-tl-xl rounded-tr-xl rounded-br-xl text-white">
                   {message.text}
                 </span>
 
